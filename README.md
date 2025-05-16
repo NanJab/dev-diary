@@ -12,3 +12,4 @@
 - [2025-05-09 개발 일지](DevelopmentLog/2025-05-09.md) 
 - [2025-05-12 개발 일지](DevelopmentLog/2025-05-12.md) 
 - [2025-05-14 개발 일지](DevelopmentLog/2025-05-14.md) 
+- [2025-05-15 개발 일지](DevelopmentLog/2025-05-15.md) 
