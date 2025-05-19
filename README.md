@@ -14,3 +14,4 @@
 - [2025-05-14 개발 일지](DevelopmentLog/2025-05-14.md) 
 - [2025-05-15 개발 일지](DevelopmentLog/2025-05-15.md) 
 - [2025-05-16 개발 일지](DevelopmentLog/2025-05-16.md) 
+- [2025-05-19 개발 일지](DevelopmentLog/2025-05-19.md) 
